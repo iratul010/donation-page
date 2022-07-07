@@ -21,7 +21,7 @@ body {
   display: flex;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(./ressources/img/background-img.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(/ressources/img/background-img.jpg);
   background-position: center;
   background-size: cover;
 
@@ -316,7 +316,7 @@ p {
   width: 100%;
   height: 500px;
   margin: 0 auto;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(./ressources/img/donation-10.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(/ressources/img/donation-10.jpg);
   background-position: center;
   background-size: cover;
 
